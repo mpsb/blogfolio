@@ -1,7 +1,10 @@
 .contact-form-icon {
     color: #585858;
+    opacity: 0.5;
+    transition: 0.5s;
 }
 
 .contact-form-icon:hover {
     color: #000000;
+    opacity: 1;
 }
